@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "Rutuja",
+      "lastname": "Kulkarni",
+      "birthday": "2023-03-13",
+      "gender": "f",
+      "education": "diploma",
+      "company": "phn",
+      "jobExperience": 1,
+      "salary": 12,
+      "profile": "Profile-05.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Rohit",
+      "lastname": "Kulkarni",
+      "birthday": "2023-06-29",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "TCS",
+      "jobExperience": 1,
+      "salary": 30,
+      "profile": "Profile-01.jpg",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
